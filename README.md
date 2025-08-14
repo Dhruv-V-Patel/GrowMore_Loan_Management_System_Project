@@ -74,12 +74,12 @@ Built as a **PHP-based web app**, it’s ideal for small financial institutions,
 
 <h4>Contact US Page:</h4>
 <p align="center">
-<img width="1367" height="680" alt="Contact Us" src="https://github.com/user-attachments/assets/edcf853b-e41d-41ab-b866-aa13d8b50d18" />
+<img width="750" height="500" alt="Contact Us" src="https://github.com/user-attachments/assets/edcf853b-e41d-41ab-b866-aa13d8b50d18" />
 </p>
 
 <h4>EMI Calculator Page:</h4>
 <p align="center">
-<img width="750" height="500" alt="EMI Calculator" src="https://github.com/user-attachments/assets/fd1d8646-fff7-48ed-a10f-c7ae83b6ce60" />
+<img width="750" height="500" alt="EMI Calculator" src="https://github.com/user-attachments/assets/c7626372-efa2-4158-ba8c-c966a31f2009" />
 </p>
 
 <h4>Admin Dashboard</h4>
