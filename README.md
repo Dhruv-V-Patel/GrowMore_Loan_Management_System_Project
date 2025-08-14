@@ -49,52 +49,52 @@ Built as a **PHP-based web app**, it’s ideal for small financial institutions,
 ## 📸 Screenshots
 <h4>Registraction Form:</h4>
 <p align="center">
-<img width="750" height="500" alt="Registraction Form" src="https://github.com/user-attachments/assets/a94400b7-48fb-4841-a848-0452bb42c15c" />
+<img width="750" height="400" alt="Registraction Form" src="https://github.com/user-attachments/assets/a94400b7-48fb-4841-a848-0452bb42c15c" />
 </p>
 
 <h4>Login Form:</h4>
 <p align="center">
-<img width="750" height="500" alt="Login Form" src="https://github.com/user-attachments/assets/5a032556-a748-4ff4-854b-22ce9213a850" />
+<img width="750" height="400" alt="Login Form" src="https://github.com/user-attachments/assets/5a032556-a748-4ff4-854b-22ce9213a850" />
 </p>
 
 <h4>User Dashboard:</h4>
 <p align="center">
-<img width="750" height="500" alt="User Panel" src="https://github.com/user-attachments/assets/0381fef1-430f-40f7-9b0b-ebb373c32e9a" />
+<img width="750" height="400" alt="User Panel" src="https://github.com/user-attachments/assets/0381fef1-430f-40f7-9b0b-ebb373c32e9a" />
 </p>
 
 <h4>Loan Application Form:</h4>
 <p align="center">
-<img width="750" height="500" alt="Loan Application Form" src="https://github.com/user-attachments/assets/454aeab1-53d9-4c28-8641-495e22c89407" />
+<img width="750" height="400" alt="Loan Application Form" src="https://github.com/user-attachments/assets/454aeab1-53d9-4c28-8641-495e22c89407" />
 </p>
 
 <h4>Document Submission Page:</h4>
 <p align="center">
-<img width="750" height="500" alt="Document Submission Page" src="https://github.com/user-attachments/assets/9928aa0f-493c-43a4-b582-1e7832e800bb" />
+<img width="750" height="400" alt="Document Submission Page" src="https://github.com/user-attachments/assets/9928aa0f-493c-43a4-b582-1e7832e800bb" />
 </p>
 
 <h4>Contact US Page:</h4>
 <p align="center">
-<img width="750" height="500" alt="Contact Us" src="https://github.com/user-attachments/assets/edcf853b-e41d-41ab-b866-aa13d8b50d18" />
+<img width="750" height="400" alt="Contact Us" src="https://github.com/user-attachments/assets/edcf853b-e41d-41ab-b866-aa13d8b50d18" />
 </p>
 
 <h4>EMI Calculator Page:</h4>
 <p align="center">
-<img width="750" height="500" alt="EMI Calculator" src="https://github.com/user-attachments/assets/c7626372-efa2-4158-ba8c-c966a31f2009" />
+<img width="750" height="400" alt="EMI Calculator" src="https://github.com/user-attachments/assets/c7626372-efa2-4158-ba8c-c966a31f2009" />
 </p>
 
 <h4>Admin Dashboard</h4>
 <p align="center">
-<img width="750" height="500" alt="Admin Panel" src="https://github.com/user-attachments/assets/6095019a-30cb-4805-9057-a91d88c549cb" />
+<img width="750" height="400" alt="Admin Panel" src="https://github.com/user-attachments/assets/6095019a-30cb-4805-9057-a91d88c549cb" />
 </p>
 
 <h4>Loan Applications Dashboard:</h4>
 <p align="center">
-<img width="750" height="1080" alt="Loan Application Dashboard" src="https://github.com/user-attachments/assets/26af64ee-dac7-4a16-b206-65f894395a9b" />
+<img width="750" height="400" alt="Loan Application Dashboard" src="https://github.com/user-attachments/assets/26af64ee-dac7-4a16-b206-65f894395a9b" />
 </p>
 
 <h4>User Records:</h4>
 <p align="center">
-<img width="750" height="500" alt="User Records" src="https://github.com/user-attachments/assets/2cb452f0-13cf-4de5-a897-e7dfd602c48e" />
+<img width="750" height="400" alt="User Records" src="https://github.com/user-attachments/assets/2cb452f0-13cf-4de5-a897-e7dfd602c48e" />
 </p>
 
 ---
