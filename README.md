@@ -1,4 +1,4 @@
-# GrowMore Loan Management System 💰
+# GrowMore - Loan Management System 💰
 
 A complete **Loan Management System** built with **PHP**, **HTML**, **CSS**, and **JavaScript**, designed to manage loan applications, approvals, repayments, and reporting with a clean UI.
 
@@ -79,9 +79,19 @@ Built as a **PHP-based web app**, it’s ideal for small financial institutions,
    $dbname = "growmore";
 5. Start Apache & MySQL in XAMPP.
 6. Open in browser: http://localhost/GrowMore_Loan_Management_System_Project
+   
 ---
 
 ## 🎯 Usage
 
 - **User**: Register → Apply for loan → View status & repayments
 - **Admin**: Login → Review applications → Approve/Reject → Track repayments
+
+---
+
+## 📂 Project Structure
+   ```bash
+   GrowMore_Loan_Management_System_Project/
+   ├── Partials/             # Includes All PHP files such as profile page, login and registration Form, loan application form, EMI calculator page, loan Details and Types Page, etc
+   ├── assets/               # CSS, JS, Images, DataBase, Uploads
+   ├── index.php             # Landing page
