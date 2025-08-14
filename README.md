@@ -48,6 +48,16 @@ Built as a **PHP-based web app**, it’s ideal for small financial institutions,
 
 ## 📸 Screenshots
 *(Add screenshots of your project UI here — e.g., dashboard, loan form, etc.)*
+<img width="1920" height="1080" alt="Registraction Form" src="https://github.com/user-attachments/assets/a94400b7-48fb-4841-a848-0452bb42c15c" />
+<img width="1920" height="1080" alt="Login Form" src="https://github.com/user-attachments/assets/5a032556-a748-4ff4-854b-22ce9213a850" />
+<img width="1920" height="1080" alt="User Panel" src="https://github.com/user-attachments/assets/0381fef1-430f-40f7-9b0b-ebb373c32e9a" />
+<img width="1920" height="1080" alt="Loan Application Form" src="https://github.com/user-attachments/assets/454aeab1-53d9-4c28-8641-495e22c89407" />
+<img width="1920" height="1080" alt="Document Submission Page" src="https://github.com/user-attachments/assets/9928aa0f-493c-43a4-b582-1e7832e800bb" />
+<img width="1367" height="769" alt="Contact Us" src="https://github.com/user-attachments/assets/69330557-85b9-4181-bb89-636ef6f1948a" />
+<img width="1367" height="769" alt="EMI Calculator" src="https://github.com/user-attachments/assets/fd1d8646-fff7-48ed-a10f-c7ae83b6ce60" />
+<img width="1367" height="769" alt="Admin Panel" src="https://github.com/user-attachments/assets/6095019a-30cb-4805-9057-a91d88c549cb" />
+
+
 
 ---
 
