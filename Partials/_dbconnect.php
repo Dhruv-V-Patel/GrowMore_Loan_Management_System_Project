@@ -7,8 +7,10 @@ $database="growmore";
 $conn= mysqli_connect($servername, $username, $password, $database);
 
 
-// Administrator Email Address and Password
-// Email Id: admin@gmail.com
-// Password: admin@123
+/*  
+    Administrator Email Address and Password
+    Email Id: admin@gmail.com
+    Password: admin@123 
+*/
 
 ?>
