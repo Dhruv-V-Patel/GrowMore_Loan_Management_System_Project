@@ -13,7 +13,6 @@ A complete **Loan Management System** built with **PHP**, **HTML**, **CSS**, and
 - [Usage](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#usage)
 - [Project Structure](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#project-structure)
 - [Contributing](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#contributing)
-- [License](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#license)
 - [Contact](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#contact)
 
 ---
@@ -90,8 +89,27 @@ Built as a **PHP-based web app**, it’s ideal for small financial institutions,
 ---
 
 ## 📂 Project Structure
+
    ```bash
    GrowMore_Loan_Management_System_Project/
    ├── Partials/             # Includes All PHP files such as profile page, login and registration Form, loan application form, EMI calculator page, loan Details and Types Page, etc
    ├── assets/               # CSS, JS, Images, DataBase, Uploads
    ├── index.php             # Landing page
+   ```
+---
+
+## 🤝 Contributing
+
+- Contributions are welcome!
+- Fork the repository
+- Create a new branch (feature/your-feature)
+- Commit changes
+- Push to your branch and create a PR
+
+---
+
+## 📞 Contact
+
+Dhruv Patel \
+GitHub: [@Dhruv-V-Patel](https://github.com/Dhruv-V-Patel) \
+Email: dhruvpatel7063@gmail.com
