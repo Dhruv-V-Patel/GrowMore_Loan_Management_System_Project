@@ -67,8 +67,21 @@ Built as a **PHP-based web app**, it’s ideal for small financial institutions,
 2. Move the project folder into your htdocs directory (if using XAMPP):
     ```bash
    C:\xampp\htdocs\GrowMore_Loan_Management_System_Project
-4. Import the database:
+3. Import the database:
    - Open phpMyAdmin
    - Create a database (e.g., growmore_db)
-   - Import the .sql file from the repository
-5. Configure database connection in config.php:
+   - Import the .sql file from the repository  
+4. Configure database connection in Partials/_dbconnect.php:
+   ```bash
+   $host = "localhost:3306";
+   $username = "root";
+   $password = "";
+   $dbname = "growmore";
+5. Start Apache & MySQL in XAMPP.
+6. Open in browser: http://localhost/GrowMore_Loan_Management_System_Project
+---
+
+## 🎯 Usage
+
+- **User**: Register → Apply for loan → View status & repayments
+- **Admin**: Login → Review applications → Approve/Reject → Track repayments
