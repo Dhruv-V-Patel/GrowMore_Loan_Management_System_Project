@@ -64,3 +64,11 @@ Built as a **PHP-based web app**, it’s ideal for small financial institutions,
 1. Clone the repository:
    ```bash
    git clone https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project.git
+2. Move the project folder into your htdocs directory (if using XAMPP):
+    ```bash
+   C:\xampp\htdocs\GrowMore_Loan_Management_System_Project
+4. Import the database:
+   - Open phpMyAdmin
+   - Create a database (e.g., growmore_db)
+   - Import the .sql file from the repository
+5. Configure database connection in config.php:
