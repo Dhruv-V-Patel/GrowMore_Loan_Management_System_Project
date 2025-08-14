@@ -5,8 +5,8 @@ A complete **Loan Management System** built with **PHP**, **HTML**, **CSS**, and
 ---
 
 ## 📋 Table of Contents
-- [About](#about)
-- [Tech Stack](#tech-stack)
+- [About](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-about)
+- [Tech Stack](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#tech-stack)
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
