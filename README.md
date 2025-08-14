@@ -6,15 +6,15 @@ A complete **Loan Management System** built with **PHP**, **HTML**, **CSS**, and
 
 ## 📋 Table of Contents
 - [About](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-about)
-- [Tech Stack](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#tech-stack)
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Tech Stack](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-tech-stack)
+- [Features](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#features)
+- [Screenshots](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#screenshots)
+- [Installation](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#installation)
+- [Usage](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#usage)
+- [Project Structure](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#project-structure)
+- [Contributing](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#contributing)
+- [License](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#license)
+- [Contact](https://github.com/Dhruv-V-Patel/GrowMore_Loan_Management_System_Project/tree/main#-#contact)
 
 ---
 
